@@ -1,7 +1,7 @@
-# BÀI TẬP KỸ THUẬT LẬP TRÌNH 1
+# BÀI TẬP KỸ THUẬT LẬP TRÌNH
 
 Kỹ thuật sử dụng giá trị lính canh, biến cờ và mảng đánh dấu trạng thái
-# Yêu cầu
+# Yêu cầu:
 
 ## Cho dãy số nguyên dương a gồm n phần tử (1≤𝑛≤106). Hãy viết chương trình thực hiện các chức năng sau:
 
